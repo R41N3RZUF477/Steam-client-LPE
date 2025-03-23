@@ -10,7 +10,7 @@ Steam client 0day privilege escalation (0day at time of upload). This vulnerabil
 ![Steam client exploit](steam_poc.png)
 
 ## Tested on
-Windows 11 24H2 x64 (February 2025 Patch); Steam 9.59.29.24 with Steam Client Service 9.59.77.46
+Windows 11 24H2 x64 (March 2025 Patch); Steam 9.59.29.24 with Steam Client Service 9.59.77.46
 
 ## CVSS Score
 CVSS 4.0: 8.5 (CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N)
