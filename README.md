@@ -1,5 +1,5 @@
 # Steam-client-LPE
-Steam client 0day privilege escalation (0day at time of upload). This vulnerability was (for some) reason not deemed as privilege escalation that gain full local administrator permissions, but I let you decide this. Works with Steam client version  (newest at the time of upload).
+Steam client 0day privilege escalation (0day at time of upload). This vulnerability was (for some reason) not deemed as privilege escalation that gains full local administrator permissions, but I let you decide this. Works with Steam client version  (newest at the time of upload).
 
 ## Exploit
 
