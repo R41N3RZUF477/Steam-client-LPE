@@ -14,6 +14,7 @@ Windows 11 24H2 x64 (March 2025 Patch); Steam 9.59.77.56 with Steam Client Servi
 
 ## CVSS Score
 CVSS 4.0: 8.5 (CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N)
+
 CVSS 3.1: 7.8 (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H)
 
 ## Vulnerability
